@@ -1,0 +1,9 @@
+Tue Apr 21 15:04:59 2026
+WARNING: Nan, Inf or huge value in QACC at DOF 6. The simulation is unstable. Time = 31.1500.
+
+Tue Apr 21 15:27:07 2026
+WARNING: ARB_clip_control unavailable while mjDEPTH_ZEROFAR requested, depth accuracy will be limited
+
+Tue Apr 21 15:46:14 2026
+WARNING: Nan, Inf or huge value in QACC at DOF 12. The simulation is unstable. Time = 13.2460.
+

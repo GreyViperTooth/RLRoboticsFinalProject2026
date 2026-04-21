@@ -1,0 +1,5 @@
+names:
+  0: object
+path: /Users/JCH/Desktop/robotics project/datasets/mujoco_obb
+train: images/train
+val: images/train
